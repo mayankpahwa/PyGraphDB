@@ -13,9 +13,10 @@ Clone the repo:
 git clone git@github.com:mayankpahwa/PyGraphDB.git
 cd PyGraphDB
 ```
-Run app
 
-Append contents of Driver.py to Graphology.py
+Run the database:
+
+- Append contents of Driver.py to Graphology.py
 ```bash
 python3 Graphology.py 
 ```
